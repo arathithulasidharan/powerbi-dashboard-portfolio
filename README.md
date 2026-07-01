@@ -1,10 +1,10 @@
-# 📊 Power BI Business Intelligence Portfolio
+# 📊 Business Intelligence Portfolio
 
-Welcome to my Business Intelligence Portfolio!
+Welcome to my **Business Intelligence Portfolio**!
 
-I'm **Arathi Thulasidharan**, a Power BI Data Analyst with hands-on experience in designing interactive dashboards and analytical reports using **Power BI** and **Microsoft Excel**.
+I'm **Arathi Thulasidharan**, a **Power BI & Business Intelligence Analyst** with hands-on experience in developing interactive dashboards and analytical reports using **Power BI** and **Microsoft Excel**.
 
-During my professional experience, I have worked on end-to-end dashboard development—from understanding business requirements and collecting data from different departments to transforming data, creating DAX measures, and designing interactive reports that support business decision-making.
+During my professional experience, I worked on end-to-end Business Intelligence solutions—from gathering business requirements and collecting data across multiple departments to transforming data, building DAX measures, and designing interactive dashboards that support data-driven decision-making.
 
 ---
 
@@ -22,7 +22,7 @@ During my professional experience, I have worked on end-to-end dashboard develop
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Basic-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-orange?style=for-the-badge)
@@ -30,33 +30,41 @@ During my professional experience, I have worked on end-to-end dashboard develop
 
 ---
 
-## 📁 Dashboard Portfolio
+# 📁 Dashboard Portfolio
 
-This repository showcases dashboards across multiple business domains:
+The portfolio is organized into business domains to showcase different analytical solutions developed using Power BI.
 
-### 📈 Sales Analytics
-This category contains interactive Power BI dashboards focused on the sales lifecycle—from enquiries and order management to pending order tracking.
-📂 **Explore Sales Analytics:**  
-➡️ [Sales Analytics Dashboards](./sales-analytics)
-
-### 💰 Finance Analytics
-- Invoice Analytics Dashboard *(Coming Soon)*
-- Cash Flow Dashboard *(Coming Soon)*
-- Accounts Receivable Dashboard *(Coming Soon)*
-- Invoice Planning Dashboard *(Coming Soon)*
-
-### 🏭 Operations Analytics
-- Project Site Tracker Dashboard *(Coming Soon)*
-
-### 🌍 Regional Analytics
-- Africa Business Dashboard *(Coming Soon)*
-
-### 📋 Executive Reporting
-- Executive Performance Scorecard *(Coming Soon)*
-
+| 📊 Business Domain | Dashboards Included |
+|--------------------|---------------------|
+| 📈 **[Sales Analytics](./sales-analytics)** | Sales Pipeline Dashboard • Order Analytics Dashboard • Pending Orders Dashboard |
+| 💰 **[Finance Analytics](./finance-analytics)** | Invoice Analytics • Cash Flow • Accounts Receivable • Invoice Planning |
+| 🏭 **[Operations Analytics](./operations-analytics)** | Project Site Tracker Dashboard |
+| 🌍 **[Regional Analytics](./regional-analytics)** | Africa Business Dashboard |
 
 ---
 
-## 🚀 More dashboards and project details will be added soon.
+## 💡 Highlights
+
+- 📊 9 Interactive Power BI Dashboards
+- 📈 Business Intelligence Reporting
+- 📉 KPI & Performance Monitoring
+- 🔄 Data Cleaning & Transformation using Power Query
+- 📐 Data Modeling & DAX Measures
+- 📋 Interactive Reports with Dynamic Filters & Slicers
+
+---
+
+## 🚀 Tools & Technologies
+
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+- SQL (Basic)
+- Python (Basic)
+
+---
 
 Thank you for visiting my portfolio!
+
+Feel free to explore the dashboards to see how business data can be transformed into actionable insights through interactive reporting and visualization.
