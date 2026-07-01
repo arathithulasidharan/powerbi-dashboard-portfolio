@@ -19,16 +19,14 @@ During my professional experience, I have worked on end-to-end dashboard develop
 
 ## 🛠️ Technical Skills
 
-- Power BI
-- DAX
-- Power Query
-- Microsoft Excel
-- Data Modeling
-- Data Cleaning & Transformation
-- Dashboard Development
-- KPI Reporting
-- SQL (Basic)
-- Python (Basic)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basic-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-orange?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-success?style=for-the-badge)
 
 ---
 
