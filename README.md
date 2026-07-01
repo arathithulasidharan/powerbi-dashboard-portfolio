@@ -35,9 +35,9 @@ During my professional experience, I have worked on end-to-end dashboard develop
 This repository showcases dashboards across multiple business domains:
 
 ### 📈 Sales Analytics
-- Sales Pipeline Dashboard *(Coming Soon)*
-- Order Analytics Dashboard *(Coming Soon)*
-- Pending Orders Dashboard *(Coming Soon)*
+This category contains interactive Power BI dashboards focused on the sales lifecycle—from enquiries and order management to pending order tracking.
+📂 **Explore Sales Analytics:**  
+➡️ [Sales Analytics Dashboards](./sales-analytics)
 
 ### 💰 Finance Analytics
 - Invoice Analytics Dashboard *(Coming Soon)*
