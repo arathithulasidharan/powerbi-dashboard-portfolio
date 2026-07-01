@@ -11,7 +11,7 @@ During my professional experience, I have worked on end-to-end dashboard develop
 ## 👩‍💻 About Me
 
 - 🎓 MBA in Business Analytics
-- 📊 Power BI Data Analyst
+- 📊 Power BI & Business Intelligence Analyst
 - 📍 Pune, Maharashtra, India
 - 📧 arathithulasidharan033@gmail.com
 
